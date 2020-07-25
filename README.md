@@ -1,10 +1,10 @@
 # Oracle Set Operators
 
-The set operators are used to combine the results of two component queries into a single result. Queries containing set operators are called compound queries.
+The set operators are used to combine the results of two components queries into a single result. Queries containing set operators are called compound queries.
 
 ## Setting up sample tables
 
-We created two new tables departments and employees for the demonstration using Sample-tables.sql script. The SQL script is under followed.
+We created two new tables departments and employees for the demonstration using Sample-tables.sql script. The SQL script is underfollowed.
 
 ```
 -- Create DEPARTMENTS table
